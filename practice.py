@@ -1,5 +1,5 @@
-def func():
-    print("git practice")
+def func():pass
+
 
 func()
 
